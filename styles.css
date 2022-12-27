@@ -1,0 +1,15 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  #list-emojis {
+    border: 3px teal solid;
+    border-radius: 2rem;
+    padding: 20px;
+  }
+  h1,
+  h2 {
+    background-color: lightblue;
+    padding: 1rem;
+  }
